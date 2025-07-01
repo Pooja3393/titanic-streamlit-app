@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web app built using **Streamlit** that predicts whether a passenger would have survived the Titanic disaster, based on user input features such as **Pclass**, **Sex**, **Siblings/Spouses**, **Parents/Children**, **Fare**, and **Port of Embarkation**.
 
-🔗 **Live App**: [Click here to use the app](https://titanic-survival-app.streamlit.app/) *(Replace with your actual Streamlit URL)*
+🔗 **Live App**: [Click here to use the app](https://titanic-app-app-ramhv4mcar63ot5p3g5iec.streamlit.app/) *(Replace with your actual Streamlit URL)*
 
 ---
 
